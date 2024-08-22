@@ -1,0 +1,70 @@
+.flex{
+
+    display: flex;
+}
+
+.justifycontent{
+    justify-content: center;
+}
+
+.alignitems{
+    align-items: center;
+}
+
+.invert{
+
+    filter: invert(1);
+}
+
+.bg-grey{
+
+    background-color: #121212;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.rounded{
+
+    border-radius: 7px;
+}
+
+.round-image{
+    border-radius: 1300px;
+    width: 150px;
+    height: 150px;
+}
+
+.m1{
+    margin: 5px;
+}
+
+.vishal{
+    height: 150px;
+}
+
+.albumimage{
+    border-radius: 5px;
+    width: 150px;
+    height: 150px;
+}
+
+.m2{
+    margin: 10px;
+    
+}
+
+.content{
+    
+    padding-top: 5px;
+     
+}
+
+.p1{
+    padding: 5px;
+}
+
+.pointer{
+    cursor: pointer;
+}
